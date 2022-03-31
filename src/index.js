@@ -5,6 +5,7 @@ import { BrowserRouter } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import { FontAwesomeIcon } from "@fortawesome/free-solid-svg-icons";
 import App from './App';
 
 ReactDOM.render(
